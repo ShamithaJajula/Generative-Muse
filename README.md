@@ -1,1 +1,1 @@
-# Generative-Muse
+# Generative-MUSE
