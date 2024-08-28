@@ -1,4 +1,5 @@
 # Generative-MUSE
+**objective:**
 The main objectives of this project are multifaceted and aim to leverage the power of deep
 
 learning to transform creative content generation. Firstly, the project seeks to develop
@@ -35,8 +36,7 @@ and various GAN variants. These alternatives are expected to enrich the creative
 
 enhancing the structural and artistic quality of the generated content.
 
-1.3 Scope of the Project
-
+**Scope of the Project**
 The scope of this project is extensive and encompasses several key areas of AI and creative
 
 content generation. It includes the application of deep neural network architectures such as
@@ -49,9 +49,9 @@ poetry. These models will be trained to capture the unique rhythmic and emotive
 
 characteristics of these art forms.
 
- Applications
+**Applications**
 
-1.6.1 Music and entertainment industries
+**1. Music and entertainment industries**
 
 The project can be used for automated song and lyric generation, providing new tools for
 
@@ -59,7 +59,7 @@ music producers, songwriters, and artists to create innovative and original musi
 
 efficiently.
 
-1.6.2 Literary fields
+**2. Literary fields**
 
 The project can generate poetry and other forms of creative writing, offering new
 
@@ -67,7 +67,7 @@ possibilities for authors and poets to explore creative expression and produce l
 
 with AI assistance.
 
-1.6.3 Voice synthesis applications
+**3. Voice synthesis applications**
 
 By creating realistic and expressive synthetic voices in various languages and styles, the
 
@@ -75,7 +75,7 @@ project can enhance applications such as virtual assistants, audiobooks, and voi
 
 providing a more human-like and engaging user experience
 
-1.6.4 Educational tools
+**4. Educational tools**
 
 The capabilities of Generative AI can be leveraged to teach and demonstrate the creative
 
@@ -83,10 +83,7 @@ processes involved in content generation. This can help students and researchers
 
 the potential and limitations of AI in creative fields and inspire new research directions.
 
-1.7 Hardware and Software Requirements
-
-1.7.1 Hardware Requirements
-
+**Hardware and Software Requirements**
 Computer with Modern CPU and 8GB+ RAM: A computer with a modern multi-core
 
 processor (e.g., Intel Core i5 or AMD Ryzen 5) and at least 8GB of RAM is recommended.
