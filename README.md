@@ -1,5 +1,5 @@
 # Generative-MUSE
-**objective:**
+**Objective:**
 The main objectives of this project are multifaceted and aim to leverage the power of deep
 
 learning to transform creative content generation. Firstly, the project seeks to develop
@@ -36,7 +36,8 @@ and various GAN variants. These alternatives are expected to enrich the creative
 
 enhancing the structural and artistic quality of the generated content.
 
-**Scope of the Project**
+**Scope of the Project**:
+
 The scope of this project is extensive and encompasses several key areas of AI and creative
 
 content generation. It includes the application of deep neural network architectures such as
@@ -84,6 +85,7 @@ processes involved in content generation. This can help students and researchers
 the potential and limitations of AI in creative fields and inspire new research directions.
 
 **Hardware and Software Requirements**
+
 Computer with Modern CPU and 8GB+ RAM: A computer with a modern multi-core
 
 processor (e.g., Intel Core i5 or AMD Ryzen 5) and at least 8GB of RAM is recommended.
@@ -95,35 +97,36 @@ demands of natural language processing tasks.
 High-Performance Computing Resources with GPUs: For training deep learning models,
 
 high-performance computing resources equipped with GPUs are essential. 
-Software Requirements
 
-Operating System: The project is compatible with major operating systems, including
+**Software Requirements**:
 
-Windows, macOS, and Linux distributions.
-
-Operating System: The project is compatible with major operating systems, including
+**Operating System:** The project is compatible with major operating systems, including
 
 Windows, macOS, and Linux distributions.
 
-Python (version 3.6 or higher): The Python programming language is required to run the
+**Operating System:** The project is compatible with major operating systems, including
+
+Windows, macOS, and Linux distributions.
+
+**Python (version 3.6 or higher):** The Python programming language is required to run the
 
 application and its dependencies. Python offers a wide range of libraries and frameworks for
 
 machine learning and data processing tasks.
 
-TensorFlow, PyTorch, Keras: These deep learning frameworks provide essential tools and
+**TensorFlow, PyTorch, Keras:** These deep learning frameworks provide essential tools and
 
 APIs for building and training neural networks, enabling the development of sophisticated
 
 AI models.
 
-Numpy, Pandas, Matplotlib, Scipy: These libraries offer powerful tools for data
+**Numpy, Pandas, Matplotlib, Scipy:** These libraries offer powerful tools for data
 
 manipulation, analysis, visualization, and scientific computing, facilitating various aspects
 
 of data preprocessing and analysis in the project.
 
-scikit-learn: This versatile machine learning library provides efficient tools for data mining,
+**scikit-learn:** This versatile machine learning library provides efficient tools for data mining,
 
 classification, regression, and clustering tasks, supporting the project's machine learning
 
